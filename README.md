@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkandh30&label=Profile%20views&color=0e75b6&style=flat" alt="bkandh30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkandh30" alt="bkandh30" /></a> </p>
-
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **Data Analysis and Data Engineering**
 - 📫 How to reach me: **kandhari.bhavya20@gmail.com**
