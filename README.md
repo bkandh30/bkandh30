@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Bhavya Kandhari</h1>
 <h3 align="center">A passionate backend developer from India currently learning MERN stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkandh30&label=Profile%20views&color=0e75b6&style=flat" alt="bkandh30" /> </p>
-
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **Data Analysis and Data Engineering**
 - 📫 How to reach me: **kandhari.bhavya20@gmail.com**
