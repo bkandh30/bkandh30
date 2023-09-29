@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Web development**
 - 💬 Ask me about **Data Analysis and Data Engineering**
-- 📫 How to reach me: **kandhari.bhavya20@gmail.com**
+- 📫 How to reach me: **bhavya.kandhari.eng@gmail.com**
 
 <h3 align="left">Connect with me: ** **</h3>
 <p align="left">
