@@ -65,10 +65,12 @@ I'm a Graduate student at Arizona State University, passionate about exploring t
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkandh30&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkandh30&layout=compact&theme=radical)
+## 📈 Contributions
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkandh30&theme=radical)](https://github.com/bkandh30)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bkandh30&theme=radical)](https://github.com/bkandh30)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bkandh30&theme=radical)](https://github.com/bkandh30)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bkandh30&theme=radical)](https://github.com/bkandh30)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bkandh30&theme=radical&utcOffset=8)](https://github.com/bkandh30)
 
 ## 📫 Connect with Me
 
