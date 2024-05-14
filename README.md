@@ -23,33 +23,52 @@ I'm a Graduate student at Arizona State University, passionate about exploring t
 - 💬 Ask me about **Data Analytics**
 - 📫 How to reach me: **[bhavya.kandhari.eng@gmail.com](mailto:bhavya.kandhari.eng@gmail.com)**
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonwebservices)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![D3.js](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=d3dotjs)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+**Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
+**Developer Tools:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+**Libraries/Frameworks:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![D3.js](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=d3dotjs)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apache-spark)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=materialui)
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+**Cloud Computing:**
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonwebservices)
+
+**MISC:**  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkandh30&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkandh30&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
