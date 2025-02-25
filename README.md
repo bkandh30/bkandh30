@@ -1,18 +1,3 @@
-<!--
-**bkandh30/bkandh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Bhavya Kandhari</h1>
 <h3 align="center">A passionate backend developer from India currently learning MERN stack</h3>
 
@@ -26,34 +11,36 @@ I'm a Graduate student at Arizona State University, passionate about exploring t
 ## 💻 Tech Stack:
 
 **Languages:**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 **Developer Tools:**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
+![New Relic](https://img.shields.io/badge/-New%20Relic-black?style=flat-square&logo=newrelic)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
+
 
 **Libraries/Frameworks:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![D3.js](https://img.shields.io/badge/-D3.js-black?style=flat-square&logo=d3dotjs)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apache-spark)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![MaterialUI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=materialui)
-![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 **Cloud Computing:**
