@@ -2,11 +2,11 @@
 <h3 align="center">A passionate backend developer from India currently learning MERN stack</h3>
 
 # About Me
-I'm a Graduate student at Arizona State University, passionate about exploring the realms of coding, data analytics, and building robust applications.
+I'm a Graduate student pursuing a Master's in Computer Science at Arizona State University, with a background in Data Analysis and a passion for building robust backend systems and exploring cloud technologies.
 
-- 🌱 I’m currently learning **Web development**
-- 💬 Ask me about **Data Analytics**
+- 🔭 Exploring web development (mainly backend development), and cloud infrastructure (especially AWS).
 - 📫 How to reach me: **[bhavya.kandhari.eng@gmail.com](mailto:bhavya.kandhari.eng@gmail.com)**
+- 🔗 Portfolio: **[Portfolio](https://bhavyakandhari.vercel.app/)**
 
 ## 💻 Tech Stack:
 
