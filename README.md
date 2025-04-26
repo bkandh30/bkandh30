@@ -14,7 +14,7 @@ I'm a Graduate student pursuing a Master's in Computer Science at Arizona State 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-**Backend & Frameworks/Libraries:** ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+**Frameworks/Libraries:** ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
