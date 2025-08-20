@@ -10,7 +10,7 @@ I'm a Graduate student pursuing a Master's in Computer Science at Arizona State 
 
 ## 💻 Tech Stack:
 
-**Languages:** ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+**Languages:** ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
 **Frameworks/Libraries:** ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)  ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)  ![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-black?style=flat-square&logo=python)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 
